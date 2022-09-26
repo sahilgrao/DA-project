@@ -1,7 +1,7 @@
  ### Resources- 
  
  # Kaggle Datasets - 
- 1) 
+ 1) https://www.kaggle.com/code/nguyenthicamlai/eda-on-netflix-movies-and-tv-shows
  2) 
  
  #google Docs link -
